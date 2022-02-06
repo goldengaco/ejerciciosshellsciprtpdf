@@ -1,0 +1,5 @@
+ Modificar el fichero '.bashrc' para modificar el PATH y añadir la carpeta de 
+estos ejercicios. Para ello añade la siguiente linea: export 
+PATH=$PATH":~/ruta_carpeta_ejercicios"
+Con esto ponemos el comando en el PATH para que pueda ejecutarse desde 
+cualquier sitio.
